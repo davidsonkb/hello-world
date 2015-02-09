@@ -1,2 +1,3 @@
 # hello-world
 test/train
+On to the next step and learning Linux...
